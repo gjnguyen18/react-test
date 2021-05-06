@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="App">
       <h1>My react App</h1>
-      <h2>Author: Gia-Phon Nguyen</h2>
-      <img src={img} alt="images/item.png"></img>
+      <h2>Author: Gia-Phong Nguyen</h2>
+      <img src={img} alt="images/item.png" />
     </div>
   );
 }
